@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+---
+
+**Projects**
+- [**arXiv news feed**][arxiv-news]: See the latest arXiv submissions filtered by keyword // *Keep up-to-date with the literature!*
+
+
+
+[arxiv-news]: https://github.com/pme0/arxiv-news
+
+
 <!--
 **pme0/pme0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
