@@ -3,7 +3,7 @@
 ---
 
 **Projects**
-- [**arXiv news feed**][arxiv-news]: See the latest arXiv submissions filtered by keyword // *Keep up-to-date with the literature!*
+- [**arXiv news feed**][arxiv-news]: See the latest arXiv submissions filtered by keyword :mega: *Keep up-to-date with the literature!*
 
 
 
@@ -23,4 +23,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+https://github.com/markdown-templates/markdown-emojis
+
 -->
