@@ -3,11 +3,13 @@
 ---
 
 **Projects**
-- [**arXiv news feed**][arxiv-news]: See the latest arXiv submissions filtered by keyword :mega: *Keep up-to-date with the literature!*
-
+- [**deep-lightning**][deeplightning]: Memory efficient parallel PyTorch trainer :mega: *Train deep neural networks faster!*
+- [**arXiv-news**][arxiv-news]: See the latest arXiv submissions filtered by keyword :mega: *Keep up-to-date with the literature!*
 
 
 [arxiv-news]: https://github.com/pme0/arxiv-news
+[deeplightning]: https://github.com/pme0/deep-lightning
+
 
 
 <!--
