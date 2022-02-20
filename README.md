@@ -3,12 +3,12 @@
 ---
 
 **Projects**
-- [**deep-lightning**][deeplightning]: Memory efficient parallel PyTorch trainer :mega: *Train deep neural networks faster!*
-- [**arXiv-news**][arxiv-news]: See the latest arXiv submissions filtered by keyword :mega: *Keep up-to-date with the literature!*
+- [**deep-lightning**][deep_lightning]: parallel deep learning for PyTorch models :mega: *Train bigger networks faster!*
+- [**arXiv-news**][arxiv_news]: see the latest arXiv submissions filtered by keyword :mega: *Keep up-to-date with the literature!*
 
 
-[arxiv-news]: https://github.com/pme0/arxiv-news
-[deeplightning]: https://github.com/pme0/deep-lightning
+[arxiv_news]: https://github.com/pme0/arxiv-news
+[deep_lightning]: https://github.com/pme0/deep-lightning
 
 
 
