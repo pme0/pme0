@@ -10,7 +10,6 @@
 [arxiv_news]: https://github.com/pme0/arxiv-news
 [deep_lightning]: https://github.com/pme0/deep-lightning
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pme0&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 <!--
 **pme0/pme0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,6 +25,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+Markdown emojis:
 https://github.com/markdown-templates/markdown-emojis
+
+GitHub stats:
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pme0&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
 
 -->
