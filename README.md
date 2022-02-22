@@ -4,11 +4,13 @@
 
 **Projects**
 - [**deep-lightning**][deep_lightning]: parallel deep learning with DeepSpeed and Pytorch-Lightning :mega: *Train bigger networks faster!*
+- [**ml-tools**][ml_tools]: reusable snippets and organizers :mega: *Deveopment machine learning pipelines faster!*
 - [**arXiv-news**][arxiv_news]: see the latest arXiv submissions filtered by keyword :mega: *Keep up-to-date with the literature!*
 
 
-[arxiv_news]: https://github.com/pme0/arxiv-news
 [deep_lightning]: https://github.com/pme0/deep-lightning
+[ml_tools]: https://github.com/pme0/ml-tools
+[arxiv_news]: https://github.com/pme0/arxiv-news
 
 
 <!--
