@@ -3,7 +3,7 @@
 ---
 
 **Projects**
-- [**arXiv-news**][arxiv_news]: see the latest arXiv submissions filtered by keyword :loudspeaker: *Keep up-to-date with the literature!*
+- [**arXiv-news**][arxiv_news]: see the latest arXiv submissions filtered by keyword :mega: *Keep up-to-date with the literature!*
 
 
 [deep_lightning]: https://github.com/pme0/deep-lightning
@@ -16,7 +16,7 @@
 
 
 - [**deep-lightning**][deep_lightning]: parallel deep learning with DeepSpeed and PyTorch-Lightning :loudspeaker: *Train bigger networks faster!*
-- [**ml-tools**][ml_tools]: reusable snippets and organizers :loudspeaker: *Deveopment machine learning pipelines faster!*
+- [**ml-tools**][ml_tools]: reusable snippets and organizers :mega: *Deveopment machine learning pipelines faster!*
 
 
 Here are some ideas to get you started:
