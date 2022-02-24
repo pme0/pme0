@@ -3,8 +3,6 @@
 ---
 
 **Projects**
-- [**deep-lightning**][deep_lightning]: parallel deep learning with DeepSpeed and PyTorch-Lightning :loudspeaker: *Train bigger networks faster!*
-- [**ml-tools**][ml_tools]: reusable snippets and organizers :loudspeaker: *Deveopment machine learning pipelines faster!*
 - [**arXiv-news**][arxiv_news]: see the latest arXiv submissions filtered by keyword :loudspeaker: *Keep up-to-date with the literature!*
 
 
@@ -15,6 +13,11 @@
 
 <!--
 **pme0/pme0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+- [**deep-lightning**][deep_lightning]: parallel deep learning with DeepSpeed and PyTorch-Lightning :loudspeaker: *Train bigger networks faster!*
+- [**ml-tools**][ml_tools]: reusable snippets and organizers :loudspeaker: *Deveopment machine learning pipelines faster!*
+
 
 Here are some ideas to get you started:
 
