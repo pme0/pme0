@@ -3,7 +3,7 @@
 ---
 
 **Projects**
-- [**deep-lightning**][deep_lightning]: Parallel Deep Learning with DeepSpeed and PyTorch-Lightning :mega: *Train bigger networks faster!*
+- [**deep-lightning**][deep_lightning]: Easy Parallel Deep Learning with DeepSpeed and PyTorch-Lightning :mega: *Train bigger networks faster!*
 - [**arXiv-news**][arxiv_news]: The latest arXiv submissions filtered by keyword :mega: *Keep up-to-date with the literature!*
 
 
