@@ -7,10 +7,8 @@
 - [**arXiv-filter**][arxiv_news]: The latest arXiv submissions filtered by keyword :mega: *Keep up-to-date with the literature!*
 
 
-[vit-deep_lightning]: https://github.com/pme0/deep-lightning
-[deep_lightning]: https://github.com/pme0/deep-lightning
-[ml_tools]: https://github.com/pme0/ml-tools
-[arxiv_news]: https://github.com/pme0/arxiv-news
+[deep_lightning]: https://github.com/pme0/Deep-Lightning
+[arxiv_news]: https://github.com/pme0/arXiv-filter
 
 
 <!--
