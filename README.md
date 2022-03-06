@@ -3,12 +3,12 @@
 ---
 
 **Projects**
-- [**Deep-Lightning**][deep_lightning]: Easy parallel deep learning with DeepSpeed and PyTorch-Lightning :mega: *Train bigger networks faster!*
-- [**arXiv-filter**][arxiv_news]: The latest arXiv submissions filtered by keyword :mega: *Keep up-to-date with the literature!*
+- [**Deep Lightning**][deep_lightning]: Easy parallel deep learning with DeepSpeed and PyTorch-Lightning :mega: *Train bigger networks faster!*
+- [**arXiv filter**][arxiv_filter]: The latest arXiv submissions filtered by keyword :mega: *Keep up-to-date with the literature!*
 
 
-[deep_lightning]: https://github.com/pme0/Deep-Lightning
-[arxiv_news]: https://github.com/pme0/arXiv-filter
+[deep_lightning]: https://github.com/pme0/DeepLightning
+[arxiv_filter]: https://github.com/pme0/arXiv-filter
 
 
 <!--
