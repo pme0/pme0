@@ -2,6 +2,11 @@
 
 ---
 
+<!--
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=pme0&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pme0&theme=blue-green)
+-->
+
 **Projects**
 - [**Deep Lightning**][deep_lightning]: Parallel deep learning with DeepSpeed and PyTorch-Lightning :mega: *Train bigger networks faster!*
 - [**arXiv filter**][arxiv_filter]: The latest arXiv submissions filtered by keyword :mega: *Keep up-to-date with the literature!*
