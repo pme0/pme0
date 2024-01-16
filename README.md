@@ -8,7 +8,7 @@
 -->
 
 **Projects**
-- [**DeepLightning**][deep_lightning]: Parallel deep learning with DeepSpeed and PyTorch-Lightning :mega: *Train bigger networks faster!*
+- [**DeepLightning**][deep_lightning]: Parallel training of deep learning models :mega: *Train bigger networks faster!*
 - [**arXiv filter**][arxiv_filter]: The latest arXiv submissions filtered by keyword :mega: *Keep up-to-date with the literature!*
 
 
