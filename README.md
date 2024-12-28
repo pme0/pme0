@@ -8,10 +8,12 @@
 -->
 
 **Projects**
-- [**DeepLightning**][deep_lightning]: Parallel training of deep learning models :mega: *Train bigger networks faster!*
+- [**Chatty Bot**][chatty_bot]: AI conversational assistant :mega: *Run ChatGPT-like AI assistants locally on your machine!*
+- [**Deep Lightning**][deep_lightning]: Parallel training of deep learning models :mega: *Train bigger networks faster!*
 - [**arXiv filter**][arxiv_filter]: The latest arXiv submissions filtered by keyword :mega: *Keep up-to-date with the literature!*
 
 
+[chatty_bot]: https://github.com/pme0/chatty-bot
 [deep_lightning]: https://github.com/pme0/DeepLightning
 [arxiv_filter]: https://github.com/pme0/arXiv-filter
 
